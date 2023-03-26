@@ -1,0 +1,19 @@
+{
+  "name": "diffex-portal-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtishGhosh/Diffex-Portal-Server.git"
+  },
+  "author": "Atish Ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtishGhosh/Diffex-Portal-Server/issues"
+  },
+  "homepage": "https://github.com/AtishGhosh/Diffex-Portal-Server#readme"
+}
